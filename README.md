@@ -13,6 +13,10 @@ Máquinas Virtuais (VMs) no Azure são como servidores rodando em nuvem, represe
 # Azure Storage
 A Conta de Armazenamento do Azure funciona como um contêiner para guardar diversos tipos de dados na nuvem. Nela, é possível trabalhar com Blobs (arquivos), Files (compartilhamentos), Queue (mensagens) Table (NoSQL) e Disk (VMs). Criá-la exige definir performance (Standard/Premium) e redundância para a disponibilidade. O nome deve ser único globalmente.
 
+# Azure SQL
+O Azure SQL Database é um serviço de banco de dados relacional disponibilizado publicamente na nuvem como Plataforma como Serviço (PaaS). Ele utiliza a tecnologia do motor de banco de dados Microsoft SQL Server. 
+A principal vantagem do SQL Database em PaaS é que a Microsoft cuida da maior parte do gerenciamento da infraestrutura subjacente, sistemas operacionais e atualizações, permitindo que os usuários foquem mais nos seus dados e aplicações. Para quem precisa de mais controle ou compatibilidade com um SQL Server on-premises, é possível usar máquinas virtuais com SQL Server (IaaS) ou o Azure SQL Managed Instance, que também é PaaS mas com maior compatibilidade e benefícios.
+
 # Notas
 
 # Dicas
